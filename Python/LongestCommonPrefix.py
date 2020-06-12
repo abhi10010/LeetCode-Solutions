@@ -7,7 +7,6 @@ class Solution:
             return strs[0]
         
         strs.sort()
-        
         x = ""
         
         for i,j in zip(strs[0], strs[-1]):
@@ -15,5 +14,6 @@ class Solution:
                 x += i
             else:
                 break
+        
         return x
         
