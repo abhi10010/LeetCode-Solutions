@@ -1,4 +1,4 @@
-<h2>Problem names, Runtime and Memory Usage</h2>
+<h2>Problem name, Runtime and Memory Usage</h2>
 <ul>
   <li><strong>Longest Common Prefix</strong>
     <br> Runtime: 32 ms, faster than 75.56%
