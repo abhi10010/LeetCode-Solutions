@@ -5,7 +5,7 @@ Solutions for Python and SQL
 <ul>
   <li><strong>Longest Common Prefix</strong>
     <br> Runtime: 32 ms, faster than 75.56%
-    <br> Memory Usage: 13.8 MB, less than 84.63% <br></li>
+    <br> Memory Usage: 13.8 MB, less than 84.63% </li><br>
   
   <li><strong>Check If a Word Occurs As a Prefix of Any Word in a Sentence</strong>
     <br> Runtime: 32 ms, faster than 62.18% 
