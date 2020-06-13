@@ -1,12 +1,24 @@
 <h2>Problem name, Runtime and Memory Usage</h2>
 <ul>
-  <li><strong>Longest Common Prefix</strong>
-    <br> Runtime: 32 ms, faster than 75.56%
-    <br> Memory Usage: 13.8 MB, less than 84.63% </li><br>
+  <li><strong>Build an Array With Stack Operations</strong>
+    <br> Runtime: 32 ms, faster than 79.41%
+    <br> Memory Usage: 13.6 MB, less than 93.14% </li><br>
   
   <li><strong>Check If a Word Occurs As a Prefix of Any Word in a Sentence</strong>
     <br> Runtime: 32 ms, faster than 62.18% 
     <br> Memory Usage: 13.7 MB, less than 82.58% </li><br>
+    
+  <li><strong>Consecutive Characters</strong>
+    <br> Runtime: 72 ms, faster than 27.25%
+    <br> Memory Usage: 13.7 MB, less than 85.84% </li><br>
+  
+  <li><strong>Kids With the Greatest Number of Candies</strong>
+    <br> Runtime: 40 ms, faster than 54.11%
+    <br> Memory Usage: 13.7 MB, less than 85.43% </li><br>
+  
+  <li><strong>Longest Common Prefix</strong>
+    <br> Runtime: 32 ms, faster than 75.56%
+    <br> Memory Usage: 13.8 MB, less than 84.63% </li><br>
   
   <li><strong>Make Two Arrays Equal by Reversing Sub-arrays</strong>
     <br> Runtime: 292 ms, faster than 5.19%
@@ -19,6 +31,10 @@
   <li><strong>Minimum Subsequence in Non-Increasing Order</strong>
     <br> Runtime: 60 ms, faster than 83.92%
     <br> Memory Usage: 13.9 MB, less than 32.97% </li><br>
+  
+  <li><strong>Minimum Value to Get Positive Step by Step Sum</strong>
+    <br> Runtime: 64 ms, faster than 11.01%
+    <br> Memory Usage: 13.9 MB, less than 39.00% </li><br>
   
   <li><strong>Palindrome Number</strong>
     <br> Runtime: 56 ms, faster than 81.40%
@@ -35,6 +51,10 @@
   <li><strong>Shuffle the Array</strong>
     <br> Runtime: 56 ms, faster than 96.54%
     <br> Memory Usage: 13.9 MB, less than 100.00% </li><br>
+  
+  <li><strong>String Matching in an Array</strong>
+    <br> Runtime: 32 ms, faster than 89.87%
+    <br> Memory Usage: 15.1 MB, less than 54.78%</li><br>
   
   <li><strong>Two Sum</strong>
     <br> Runtime: 52 ms, faster than 62.08%
