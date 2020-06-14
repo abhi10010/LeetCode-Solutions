@@ -11,6 +11,22 @@
   <li><strong>Consecutive Characters</strong>
     <br> Runtime: 72 ms, faster than 27.25%
     <br> Memory Usage: 13.7 MB, less than 85.84% </li><br>
+   
+  <li><strong>Decompress Run-Length Encoded List</strong>
+    <br> Runtime: 64 ms, faster than 89.42%
+    <br> Memory Usage: 14.1 MB, less than 29.42% </li><br>
+  
+  <li><strong>Defanging an IP Address</strong>
+    <br> Runtime: 28 ms, faster than 73.79%
+    <br> Memory Usage: 13.6 MB, less than 91.87% </li><br>
+  
+  <li><strong>Jewels and Stones</strong>
+    <br> Runtime: 28 ms, faster than 77.15%
+    <br> Memory Usage: 13.9 MB, less than 29.51% </li><br>
+  
+  <li><strong>How Many Numbers Are Smaller Than the Current Number</strong>
+    <br> Runtime: 376 ms, faster than 29.76%
+    <br> Memory Usage: 14 MB, less than 21.31%  </li><br>
   
   <li><strong>Kids With the Greatest Number of Candies</strong>
     <br> Runtime: 40 ms, faster than 54.11%
@@ -35,6 +51,10 @@
   <li><strong>Minimum Value to Get Positive Step by Step Sum</strong>
     <br> Runtime: 64 ms, faster than 11.01%
     <br> Memory Usage: 13.9 MB, less than 39.00% </li><br>
+  
+  <li><strong>Number of Steps to Reduce a Number to Zero</strong>
+    <br> Runtime: 32 ms, faster than 47.08%
+    <br> Memory Usage: 13.7 MB, less than 82.77% </li><br>
   
   <li><strong>Palindrome Number</strong>
     <br> Runtime: 56 ms, faster than 81.40%
