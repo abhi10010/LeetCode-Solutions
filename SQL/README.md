@@ -12,12 +12,20 @@
     <br> Runtime: 368 ms, faster than 73.90%
     </li><br>
     
+  <li><strong>Consecutive Numbers</strong>
+    <br> Runtime: 451 ms, faster than 87.73%
+    </li><br>
+    
   <li><strong>Customers Who Never Order</strong>
     <br> Runtime: 490 ms, faster than 73.45%
     </li><br>
   
   <li><strong>Delete Duplicate Emails</strong>
     <br> Runtime: 1756 ms, faster than 67.74%
+    </li><br>
+    
+  <li><strong>Department Highest Salary</strong>
+    <br> Runtime: 841 ms, faster than 47.66%
     </li><br>
   
   <li><strong>Duplicate Emails</strong>
@@ -30,6 +38,10 @@
     
   <li><strong>Exchange Seats</strong>
     <br> Runtime: 244 ms, faster than 88.73%
+    </li><br>
+  
+  <li><strong>Human Traffic of Stadium</strong>
+    <br> Runtime: 531 ms, faster than 38.68%
     </li><br>
   
   <li><strong>Not Boring Movies</strong>
@@ -58,6 +70,10 @@
   
   <li><strong>Swap Salary</strong>
     <br> Runtime: 299 ms, faster than 71.27%
+    </li><br>
+    
+  <li><strong>Trips and Users</strong>
+    <br> Runtime: 418 ms, faster than 68.93%
     </li><br>
   
   </ul>
