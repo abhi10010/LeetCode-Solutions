@@ -11,6 +11,10 @@
   <li><strong>Consecutive Characters</strong>
     <br> Runtime: 72 ms, faster than 27.25%
     <br> Memory Usage: 13.7 MB, less than 85.84% </li><br>
+  
+  <li><strong>Create Target Array in the Given Order</strong>
+    <br> Runtime: 36 ms, faster than 41.25%
+    <br> Memory Usage: 13.6 MB, less than 98.03% </li><br>
    
   <li><strong>Decompress Run-Length Encoded List</strong>
     <br> Runtime: 64 ms, faster than 89.42%
@@ -19,6 +23,10 @@
   <li><strong>Defanging an IP Address</strong>
     <br> Runtime: 28 ms, faster than 73.79%
     <br> Memory Usage: 13.6 MB, less than 91.87% </li><br>
+  
+  <li><strong>Find Numbers with Even Number of Digits</strong>
+    <br> Runtime: 60 ms, faster than 34.06%
+    <br> Memory Usage: 13.7 MB, less than 95.27% </li><br>
   
   <li><strong>Jewels and Stones</strong>
     <br> Runtime: 28 ms, faster than 77.15%
@@ -59,6 +67,10 @@
   <li><strong>Palindrome Number</strong>
     <br> Runtime: 56 ms, faster than 81.40%
     <br> Memory Usage: 13.9 MB, less than 52.04% </li><br>
+    
+  <li><strong>Range Sum of BST</strong>
+    <br> Runtime: 232 ms, faster than 75.67%
+    <br> Memory Usage: 21.9 MB, less than 49.16% </li><br>
   
   <li><strong>Reverse Integer</strong>
     <br> Runtime: 36 ms, faster than 36.31%
@@ -71,10 +83,18 @@
   <li><strong>Shuffle the Array</strong>
     <br> Runtime: 56 ms, faster than 96.54%
     <br> Memory Usage: 13.9 MB, less than 100.00% </li><br>
+    
+  <li><strong>Split a String in Balanced Strings</strong>
+    <br> Runtime: 44 ms, faster than 13.24%
+    <br> Memory Usage: 13.7 MB, less than 84.35% </li><br>
   
   <li><strong>String Matching in an Array</strong>
     <br> Runtime: 32 ms, faster than 89.87%
     <br> Memory Usage: 15.1 MB, less than 54.78%</li><br>
+  
+  <li><strong>Subtract the Product and Sum of Digits of an Integer</strong>
+    <br> Runtime: 24 ms, faster than 92.34%
+    <br> Memory Usage: 13.9 MB, less than 23.61%</li><br>
   
   <li><strong>Two Sum</strong>
     <br> Runtime: 52 ms, faster than 62.08%
