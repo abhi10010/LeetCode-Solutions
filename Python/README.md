@@ -4,6 +4,10 @@
     <br> Runtime: 32 ms, faster than 79.41%
     <br> Memory Usage: 13.6 MB, less than 93.14% </li><br>
   
+  <li><strong>Cells with Odd Values in a Matrix</strong>
+    <br> Runtime: 48 ms, faster than 65.65%
+    <br> Memory Usage: 13.8 MB, less than 78.54% </li><br>
+  
   <li><strong>Check If a Word Occurs As a Prefix of Any Word in a Sentence</strong>
     <br> Runtime: 32 ms, faster than 62.18% 
     <br> Memory Usage: 13.7 MB, less than 82.58% </li><br>
@@ -11,6 +15,10 @@
   <li><strong>Consecutive Characters</strong>
     <br> Runtime: 72 ms, faster than 27.25%
     <br> Memory Usage: 13.7 MB, less than 85.84% </li><br>
+  
+  <li><strong>Convert Binary Number in a Linked List to Integer</strong>
+    <br> Runtime: 24 ms, faster than 93.86%
+    <br> Memory Usage: 13.7 MB, less than 88.70% </li><br>
   
   <li><strong>Create Target Array in the Given Order</strong>
     <br> Runtime: 36 ms, faster than 41.25%
@@ -55,6 +63,10 @@
   <li><strong>Minimum Subsequence in Non-Increasing Order</strong>
     <br> Runtime: 60 ms, faster than 83.92%
     <br> Memory Usage: 13.9 MB, less than 32.97% </li><br>
+    
+  <li><strong>Minimum Time Visiting All Points</strong>
+    <br> Runtime: 52 ms, faster than 96.62%
+    <br> Memory Usage: 13.8 MB, less than 54.54% </li><br>
   
   <li><strong>Minimum Value to Get Positive Step by Step Sum</strong>
     <br> Runtime: 64 ms, faster than 11.01%
@@ -63,6 +75,10 @@
   <li><strong>Number of Steps to Reduce a Number to Zero</strong>
     <br> Runtime: 32 ms, faster than 47.08%
     <br> Memory Usage: 13.7 MB, less than 82.77% </li><br>
+  
+  <li><strong>Number of Students Doing Homework at a Given Time</strong>
+    <br> Runtime: 36 ms, faster than 83.05%
+    <br> Memory Usage: 13.7 MB, less than 83.63% </li><br>
   
   <li><strong>Palindrome Number</strong>
     <br> Runtime: 56 ms, faster than 81.40%
@@ -95,6 +111,10 @@
   <li><strong>Subtract the Product and Sum of Digits of an Integer</strong>
     <br> Runtime: 24 ms, faster than 92.34%
     <br> Memory Usage: 13.9 MB, less than 23.61%</li><br>
+    
+  <li><strong>To Lower Case</strong>
+    <br> Runtime: 32 ms, faster than 43.63%
+    <br> Memory Usage: 13.8 MB, less than 71.16%</li><br>
   
   <li><strong>Two Sum</strong>
     <br> Runtime: 52 ms, faster than 62.08%
