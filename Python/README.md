@@ -20,6 +20,10 @@
     <br> Runtime: 24 ms, faster than 93.86%
     <br> Memory Usage: 13.7 MB, less than 88.70% </li><br>
   
+  <li><strong>Count Negative Numbers in a Sorted Matrix</strong>
+    <br> Runtime: 128 ms, faster than 66.67%
+    <br> Memory Usage: 14.7 MB, less than 57.37% </li><br>
+  
   <li><strong>Create Target Array in the Given Order</strong>
     <br> Runtime: 36 ms, faster than 41.25%
     <br> Memory Usage: 13.6 MB, less than 98.03% </li><br>
@@ -31,6 +35,14 @@
   <li><strong>Defanging an IP Address</strong>
     <br> Runtime: 28 ms, faster than 73.79%
     <br> Memory Usage: 13.6 MB, less than 91.87% </li><br>
+    
+  <li><strong>Destination City</strong>
+    <br> Runtime: 64 ms, faster than 38.13%
+    <br> Memory Usage: 13.8 MB, less than 61.54% </li><br>
+  
+  <li><strong>Final Prices With a Special Discount in a Shop</strong>
+    <br> Runtime: 52 ms, faster than 91.72%
+    <br> Memory Usage: 13.9 MB, less than 100.00% </li><br>
   
   <li><strong>Find Numbers with Even Number of Digits</strong>
     <br> Runtime: 60 ms, faster than 34.06%
@@ -55,6 +67,10 @@
   <li><strong>Make Two Arrays Equal by Reversing Sub-arrays</strong>
     <br> Runtime: 292 ms, faster than 5.19%
     <br> Memory Usage: 13.8 MB, less than 86.69% </li><br>
+    
+  <li><strong>Maximum 69 Number</strong>
+    <br> Runtime: 28 ms, faster than 74.78%
+    <br> Memory Usage: 13.7 MB, less than 81.66% </li><br>
   
   <li><strong>Maximum Product of Two Elements in an Array</strong>
     <br> Runtime: 56 ms, faster than 60.88%
@@ -87,6 +103,10 @@
   <li><strong>Range Sum of BST</strong>
     <br> Runtime: 232 ms, faster than 75.67%
     <br> Memory Usage: 21.9 MB, less than 49.16% </li><br>
+  
+  <li><strong>Remove Outermost Parentheses</strong>
+    <br> Runtime: 40 ms, faster than 56.62%
+    <br> Memory Usage: 13.8 MB, less than 70.22% </li><br>
   
   <li><strong>Reverse Integer</strong>
     <br> Runtime: 36 ms, faster than 36.31%
