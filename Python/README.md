@@ -32,6 +32,10 @@
     <br> Runtime: 64 ms, faster than 89.42%
     <br> Memory Usage: 14.1 MB, less than 29.42% </li><br>
   
+  <li><strong>Decrypt String from Alphabet to Integer Mapping</strong>
+    <br> Runtime: 24 ms, faster than 92.11% 
+    <br> Memory Usage: 13.9 MB, less than 30.96% </li><br>
+  
   <li><strong>Defanging an IP Address</strong>
     <br> Runtime: 28 ms, faster than 73.79%
     <br> Memory Usage: 13.6 MB, less than 91.87% </li><br>
@@ -43,10 +47,18 @@
   <li><strong>Final Prices With a Special Discount in a Shop</strong>
     <br> Runtime: 52 ms, faster than 91.72%
     <br> Memory Usage: 13.9 MB, less than 100.00% </li><br>
+    
+  <li><strong>Find N Unique Integers Sum up to Zero</strong>
+    <br> Runtime: 32 ms, faster than 71.17%
+    <br> Memory Usage: 13.9 MB, less than 46.53% </li><br>
   
   <li><strong>Find Numbers with Even Number of Digits</strong>
     <br> Runtime: 60 ms, faster than 34.06%
     <br> Memory Usage: 13.7 MB, less than 95.27% </li><br>
+  
+  <li><strong>Flipping an Image</strong>
+    <br> Runtime: 52 ms, faster than 65.46%
+    <br> Memory Usage: 13.6 MB, less than 95.72% </li><br>
   
   <li><strong>Jewels and Stones</strong>
     <br> Runtime: 28 ms, faster than 77.15%
@@ -108,6 +120,10 @@
     <br> Runtime: 40 ms, faster than 56.62%
     <br> Memory Usage: 13.8 MB, less than 70.22% </li><br>
   
+  <li><strong>Replace Elements with Greatest Element on Right Side</strong>
+    <br> Runtime: 4768 ms, faster than 11.29%
+    <br> Memory Usage: 14.8 MB, less than 58.81% </li><br>
+  
   <li><strong>Reverse Integer</strong>
     <br> Runtime: 36 ms, faster than 36.31%
     <br> Memory Usage: 13.8 MB, less than 72.45% </li><br>
@@ -139,4 +155,8 @@
   <li><strong>Two Sum</strong>
     <br> Runtime: 52 ms, faster than 62.08%
     <br> Memory Usage: 15.1 MB, less than 62.26%</li><br>
+    
+  <li><strong>Unique Morse Code Words</strong>
+    <br> Runtime: 32 ms, faster than 82.39%
+    <br> Memory Usage: 13.9 MB, less than 25.52% </li><br>
   </ul>
