@@ -60,6 +60,10 @@
     <br> Runtime: 52 ms, faster than 65.46%
     <br> Memory Usage: 13.6 MB, less than 95.72% </li><br>
   
+  <li><strong>Generate a String With Characters That Have Odd Counts</strong>
+    <br> Runtime: 28 ms, faster than 72.88%
+    <br> Memory Usage: 13.9 MB, less than 24.16% </li><br>
+  
   <li><strong>Jewels and Stones</strong>
     <br> Runtime: 28 ms, faster than 77.15%
     <br> Memory Usage: 13.9 MB, less than 29.51% </li><br>
@@ -87,6 +91,10 @@
   <li><strong>Maximum Product of Two Elements in an Array</strong>
     <br> Runtime: 56 ms, faster than 60.88%
     <br> Memory Usage: 13.8 MB, less than 78.65% </li><br>
+  
+  <li><strong>Merge Two Binary Trees</strong>
+    <br> Runtime: 88 ms, faster than 88.54%
+    <br> Memory Usage: 14.7 MB, less than 88.77%  </li><br>
   
   <li><strong>Minimum Subsequence in Non-Increasing Order</strong>
     <br> Runtime: 60 ms, faster than 83.92%
@@ -131,11 +139,19 @@
   <li><strong>Roman to Integer</strong>
     <br> Runtime: 44 ms, faster than 80.76%
     <br> Memory Usage: 13.8 MB, less than 77.99% </li><br>
-  
-  <li><strong>Shuffle the Array</strong>
-    <br> Runtime: 56 ms, faster than 96.54%
-    <br> Memory Usage: 13.9 MB, less than 100.00% </li><br>
     
+  <li><strong>Roman to Integer</strong>
+    <br> Runtime: 44 ms, faster than 80.76%
+    <br> Memory Usage: 13.8 MB, less than 77.99% </li><br>
+  
+  <li><strong>Self Dividing Numbers</strong>
+    <br> Runtime: 84 ms, faster than 14.74%
+    <br> Memory Usage: 13.7 MB, less than 89.55% </li><br>
+    
+  <li><strong> Sort Array By Parity</strong>
+    <br> Runtime: 80 ms, faster than 81.86%
+    <br> Memory Usage: 14.2 MB, less than 95.36%</li><br>
+  
   <li><strong>Split a String in Balanced Strings</strong>
     <br> Runtime: 44 ms, faster than 13.24%
     <br> Memory Usage: 13.7 MB, less than 84.35% </li><br>
@@ -159,4 +175,8 @@
   <li><strong>Unique Morse Code Words</strong>
     <br> Runtime: 32 ms, faster than 82.39%
     <br> Memory Usage: 13.9 MB, less than 25.52% </li><br>
+    
+  <li><strong>Valid Parentheses</strong>
+    <br> Runtime: 24 ms, faster than 92.63%
+    <br> Memory Usage: 13.9 MB, less than 55.94% </li><br>
   </ul>
