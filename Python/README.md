@@ -71,6 +71,10 @@
   <li><strong>How Many Numbers Are Smaller Than the Current Number</strong>
     <br> Runtime: 376 ms, faster than 29.76%
     <br> Memory Usage: 14 MB, less than 21.31%  </li><br>
+    
+  <li><strong>Increasing Decreasing String</strong>
+    <br> Runtime: 52 ms, faster than 97.06%
+    <br> Memory Usage: 13.9 MB, less than 39.90%  </li><br>
   
   <li><strong>Kids With the Greatest Number of Candies</strong>
     <br> Runtime: 40 ms, faster than 54.11%
@@ -108,6 +112,10 @@
     <br> Runtime: 64 ms, faster than 11.01%
     <br> Memory Usage: 13.9 MB, less than 39.00% </li><br>
   
+  <li><strong>N-Repeated Element in Size 2N Array</strong>
+    <br> Runtime: 216 ms, faster than 81.12%
+    <br> Memory Usage: 15.1 MB, less than 42.70% </li><br>
+  
   <li><strong>Number of Steps to Reduce a Number to Zero</strong>
     <br> Runtime: 32 ms, faster than 47.08%
     <br> Memory Usage: 13.7 MB, less than 82.77% </li><br>
@@ -135,14 +143,18 @@
   <li><strong>Reverse Integer</strong>
     <br> Runtime: 36 ms, faster than 36.31%
     <br> Memory Usage: 13.8 MB, less than 72.45% </li><br>
+    
+  <li><strong>Robot Return to Origin</strong>
+    <br> Runtime: 24 ms, faster than 99.28%
+    <br> Memory Usage: 13.6 MB, less than 97.28% </li><br>
   
   <li><strong>Roman to Integer</strong>
     <br> Runtime: 44 ms, faster than 80.76%
     <br> Memory Usage: 13.8 MB, less than 77.99% </li><br>
     
-  <li><strong>Roman to Integer</strong>
-    <br> Runtime: 44 ms, faster than 80.76%
-    <br> Memory Usage: 13.8 MB, less than 77.99% </li><br>
+  <li><strong>Search in a Binary Search Tree</strong>
+    <br> Runtime: 80 ms, faster than 64.45%
+    <br> Memory Usage: 15.8 MB, less than 40.69% </li><br>
   
   <li><strong>Self Dividing Numbers</strong>
     <br> Runtime: 84 ms, faster than 14.74%
@@ -155,6 +167,10 @@
   <li><strong>Split a String in Balanced Strings</strong>
     <br> Runtime: 44 ms, faster than 13.24%
     <br> Memory Usage: 13.7 MB, less than 84.35% </li><br>
+    
+  <li><strong>Squares of a Sorted Array</strong>
+    <br> Runtime: 220 ms, faster than 92.43% 
+    <br> Memory Usage: 15.7 MB, less than 50.42% </li><br>
   
   <li><strong>String Matching in an Array</strong>
     <br> Runtime: 32 ms, faster than 89.87%
