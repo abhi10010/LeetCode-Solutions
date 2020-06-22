@@ -1,5 +1,9 @@
 <h2>Problem name, Runtime and Memory Usage</h2>
 <ul>
+  <li><strong>Array Partition I</strong>
+    <br> Runtime: 276 ms, faster than 93.18% 
+    <br> Memory Usage: 16 MB, less than 95.75% </li><br>
+  
   <li><strong>Build an Array With Stack Operations</strong>
     <br> Runtime: 32 ms, faster than 79.41%
     <br> Memory Usage: 13.6 MB, less than 93.14% </li><br>
@@ -27,7 +31,11 @@
   <li><strong>Create Target Array in the Given Order</strong>
     <br> Runtime: 36 ms, faster than 41.25%
     <br> Memory Usage: 13.6 MB, less than 98.03% </li><br>
-   
+  
+  <li><strong>DI String Match</strong>
+    <br> Runtime: 64 ms, faster than 79.49%
+    <br> Memory Usage: 15.1 MB, less than 6.56% </li><br>
+  
   <li><strong>Decompress Run-Length Encoded List</strong>
     <br> Runtime: 64 ms, faster than 89.42%
     <br> Memory Usage: 14.1 MB, less than 29.42% </li><br>
@@ -84,6 +92,10 @@
     <br> Runtime: 32 ms, faster than 75.56%
     <br> Memory Usage: 13.8 MB, less than 84.63% </li><br>
   
+  <li><strong>Lucky Numbers in a Matrix</strong>
+    <br> Runtime: 124 ms, faster than 98.09%
+    <br> Memory Usage: 14.3 MB, less than 9.67% </li><br>
+  
   <li><strong>Make Two Arrays Equal by Reversing Sub-arrays</strong>
     <br> Runtime: 292 ms, faster than 5.19%
     <br> Memory Usage: 13.8 MB, less than 86.69% </li><br>
@@ -115,6 +127,14 @@
   <li><strong>N-Repeated Element in Size 2N Array</strong>
     <br> Runtime: 216 ms, faster than 81.12%
     <br> Memory Usage: 15.1 MB, less than 42.70% </li><br>
+  
+  <li><strong>N-ary Tree Postorder Traversal</strong>
+    <br> Runtime: 52 ms, faster than 70.17%
+    <br> Memory Usage: 15.8 MB, less than 15.03% </li><br>
+  
+  <li><strong>N-ary Tree Preorder Traversal</strong>
+    <br> Runtime: 48 ms, faster than 89.61%
+    <br> Memory Usage: 15.8 MB, less than 18.85% </li><br>
   
   <li><strong>Number of Steps to Reduce a Number to Zero</strong>
     <br> Runtime: 32 ms, faster than 47.08%
