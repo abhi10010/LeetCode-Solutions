@@ -72,6 +72,10 @@
     <br> Runtime: 28 ms, faster than 72.88%
     <br> Memory Usage: 13.9 MB, less than 24.16% </li><br>
   
+  <li><strong>Hamming Distance</strong>
+    <br> Runtime: 16 ms, faster than 99.96%
+    <br> Memory Usage: 13.8 MB, less than 48.02% </li><br>
+  
   <li><strong>Jewels and Stones</strong>
     <br> Runtime: 28 ms, faster than 77.15%
     <br> Memory Usage: 13.9 MB, less than 29.51% </li><br>
@@ -136,6 +140,10 @@
     <br> Runtime: 48 ms, faster than 89.61%
     <br> Memory Usage: 15.8 MB, less than 18.85% </li><br>
   
+  <li><strong>Number of Recent Calls</strong>
+    <br> Runtime: 304 ms, faster than 70.81%
+    <br> Memory Usage: 18.6 MB, less than 27.79% </li><br>
+  
   <li><strong>Number of Steps to Reduce a Number to Zero</strong>
     <br> Runtime: 32 ms, faster than 47.08%
     <br> Memory Usage: 13.7 MB, less than 82.77% </li><br>
@@ -148,6 +156,10 @@
     <br> Runtime: 56 ms, faster than 81.40%
     <br> Memory Usage: 13.9 MB, less than 52.04% </li><br>
     
+  <li><strong>Peak Index in a Mountain Array</strong>
+    <br> Runtime: 84 ms, faster than 39.04%
+    <br> MMemory Usage: 15.1 MB, less than 32.98% </li><br>
+  
   <li><strong>Range Sum of BST</strong>
     <br> Runtime: 232 ms, faster than 75.67%
     <br> Memory Usage: 21.9 MB, less than 49.16% </li><br>
