@@ -76,6 +76,10 @@
     <br> Runtime: 16 ms, faster than 99.96%
     <br> Memory Usage: 13.8 MB, less than 48.02% </li><br>
   
+  <li><strong>Height Checker</strong>
+    <br> Runtime: 28 ms, faster than 95.35%
+    <br> Memory Usage: 13.8 MB, less than 56.75% </li><br>
+  
   <li><strong>Jewels and Stones</strong>
     <br> Runtime: 28 ms, faster than 77.15%
     <br> Memory Usage: 13.9 MB, less than 29.51% </li><br>
@@ -208,6 +212,10 @@
     <br> Runtime: 32 ms, faster than 89.87%
     <br> Memory Usage: 15.1 MB, less than 54.78%</li><br>
   
+  <li><strong>Subdomain Visit Count</strong>
+    <br> Runtime: 56 ms, faster than 60.29%
+    <br> Memory Usage: 13.9 MB, less than 62.61%</li><br>
+  
   <li><strong>Subtract the Product and Sum of Digits of an Integer</strong>
     <br> Runtime: 24 ms, faster than 92.34%
     <br> Memory Usage: 13.9 MB, less than 23.61%</li><br>
@@ -224,6 +232,10 @@
     <br> Runtime: 32 ms, faster than 82.39%
     <br> Memory Usage: 13.9 MB, less than 25.52% </li><br>
     
+  <li><strong>Unique Number of Occurrences</strong>
+    <br> Runtime: 28 ms, faster than 95.11%
+    <br> Memory Usage: 13.9 MB, less than 62.36% </li><br>  
+  
   <li><strong>Valid Parentheses</strong>
     <br> Runtime: 24 ms, faster than 92.63%
     <br> Memory Usage: 13.9 MB, less than 55.94% </li><br>
