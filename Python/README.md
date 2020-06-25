@@ -47,7 +47,11 @@
   <li><strong>Defanging an IP Address</strong>
     <br> Runtime: 28 ms, faster than 73.79%
     <br> Memory Usage: 13.6 MB, less than 91.87% </li><br>
-    
+  
+  <li><strong>Delete Columns to Make Sorted</strong>
+    <br> Runtime: 184 ms, faster than 48.76%
+    <br> Memory Usage: 14.4 MB, less than 39.29% </li><br>
+  
   <li><strong>Destination City</strong>
     <br> Runtime: 64 ms, faster than 38.13%
     <br> Memory Usage: 13.8 MB, less than 61.54% </li><br>
@@ -239,4 +243,8 @@
   <li><strong>Valid Parentheses</strong>
     <br> Runtime: 24 ms, faster than 92.63%
     <br> Memory Usage: 13.9 MB, less than 55.94% </li><br>
+  
+  <li><strong>XOR Operation in an Array</strong>
+    <br> Runtime: 40 ms, faster than 39.03%
+    <br> Memory Usage: 13.9 MB, less than 100.00% </li><br>
   </ul>
